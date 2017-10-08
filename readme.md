@@ -6,7 +6,7 @@ This for my personal coding style guide for my c++ projects based on Google c++ 
 
 ## Line length
 
-Each line of text in the code should not exceed 80 characters including comments followed by the code.
+Each line of text in the code should not exceed 80 characters and preferably 70 characters including comments followed by the code.
 
 Exceptions: 
 1. File directories
